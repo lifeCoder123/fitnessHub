@@ -1,0 +1,39 @@
+{
+  "generator-jhipster": {
+    "applicationType": "monolith",
+    "gitCompany": "",
+    "baseName": "fitnessHub",
+    "packageName": "com.gym.fitnesshub",
+    "packageFolder": "com/gym/fitnesshub",
+    "serverPort": 8080,
+    "serviceDiscoveryType": false,
+    "authenticationType": "jwt",
+    "uaaBaseName": "../uaa",
+    "cacheProvider": "no",
+    "enableHibernateCache": false,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "mysql",
+    "prodDatabaseType": "mysql",
+    "searchEngine": "elasticsearch",
+    "enableSwaggerCodegen": false,
+    "messageBroker": "kafka",
+    "buildTool": "maven",
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "testFrameworks": [],
+    "enableTranslation": false,
+    "nativeLanguage": "en",
+    "languages": [
+      "en"
+    ],
+    "clientFramework": "angularX",
+    "jhiPrefix": "jhi",
+    "jhipsterVersion": "5.7.2",
+    "jwtSecretKey": "OWYxMWQxNjNmN2Y0ZTM1ZGUwYWRmYTM2YzZhZWM1MWNiMDFjNDgxNzExNTg2NzNmZWM5YzRkYTE2ZTg0MGFlMjZhN2ZkMmQ2NGE3YzJmZjA4MGI3MzYwMjk4YzY4ZWY3MDRiODEzZDAxNzU4NDBkY2Q0NzA0ZDdiYjM0ZTY3N2Q=",
+    "otherModules": []
+  },
+  "git-provider": "GitHub",
+  "git-company": "lifeCoder123",
+  "repository-name": "fitnessHub"
+}
